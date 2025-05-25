@@ -93,7 +93,6 @@ Olá! Me chamo Guilherme Moreira Reis, tenho 21 anos e sou de São Paulo. Conclu
 <br>
 <br>
 
-
 ### 🌐 Estatísticas
 <p>
 <img
