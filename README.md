@@ -48,13 +48,13 @@ Olá! Me chamo Guilherme Moreira Reis, tenho 21 anos e sou de São Paulo. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+<img
+align="left"
+alt="C#"
+title="C#"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
     align="left" 
@@ -64,14 +64,7 @@ Olá! Me chamo Guilherme Moreira Reis, tenho 21 anos e sou de São Paulo. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="SQL" 
@@ -79,14 +72,6 @@ Olá! Me chamo Guilherme Moreira Reis, tenho 21 anos e sou de São Paulo. Conclu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-/>
-<img 
-        align="left" 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br>
