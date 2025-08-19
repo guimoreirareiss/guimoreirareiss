@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Guilherme Moreira Reis
+# Guilherme Moreira Reis
 
 **`Desenvolvedor Backend`**
 
